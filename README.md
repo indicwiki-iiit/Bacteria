@@ -35,8 +35,8 @@ This folder contains the final dataset as well as some other dataset that have b
 
 This folder contains various files:
 
-- [manual_ref](https://github.com/indicwiki-iiit/Bacteria/blob/main/Code/manual_ref.py):
-- [merge](https://github.com/indicwiki-iiit/Bacteria/blob/main/Code/merge.py): 
+- [manual_ref](https://github.com/indicwiki-iiit/Bacteria/blob/main/Code/manual_ref.py): Contains code which combines the multiple refernces of each article alongwith the url and text.
+- [merge](https://github.com/indicwiki-iiit/Bacteria/blob/main/Code/merge.py): Contains code which merges all the multi-valued attributes with a proper delimiter such that it can be separated out when required. Also does some conversions and addition of attributes.
 - [ref_scrape](https://github.com/indicwiki-iiit/Bacteria/blob/main/Code/ref_scrape.py): Contains the code used for extraction of references.
 - [transaltion and transliteration](https://github.com/indicwiki-iiit/Bacteria/blob/main/Code/tranlation%20and%20transliteration.py): Includes the code for translating and transliterating the main dataset.
 
