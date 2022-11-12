@@ -27,8 +27,12 @@ The following ordered list will give an idea as to what stage the project curren
 
 This folder contains the final dataset as well as some other dataset that have been used in the project:
 
-- [Scraped_db_added_attrib.csv](https://github.com/indicwiki-iiit/Bacteria/blob/main/Database/Scraped_db_added_attrib.csv): This file contains the final dataset that is used for article generation. The file contains data on 17245 bacteria and has 24 attributes.
+- [Scraped_db.csv](https://github.com/indicwiki-iiit/Bacteria/blob/main/Database/Scraped_db.csv): This is the dataset that has been directly scraped from [BacDive](https://bacdive.dsmz.de/taxplorer).
+- [Scraped_db_added_attrib.csv](https://github.com/indicwiki-iiit/Bacteria/blob/main/Database/Scraped_db_added_attrib.csv): This file contains the English dataset that is used for article generation after merging multivalued attributes and adding some addtional data. The file contains data on 17245 bacteria and has 24 attributes.
 - [reflist.csv](https://github.com/indicwiki-iiit/Bacteria/blob/main/Database/reflist.csv): This csv file contains a list of all the references from which we took out the data.
+- [Fina_eng_db](https://github.com/indicwiki-iiit/Bacteria/blob/main/Database/Final_eng_db.csv) : This csv file is the final English database with the refernces added for each bacteria.
+- [Fina_hindi_db](https://github.com/indicwiki-iiit/Bacteria/blob/main/Database/Final_hindi_db.csv) : This csv file is the final Hindi database after translating and transliterating the final English database.
+
 
 
 ### Code
