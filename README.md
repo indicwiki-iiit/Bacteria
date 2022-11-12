@@ -53,6 +53,7 @@ This folder contains various files:
 
 
 ##Contributors
--Darshana Baruah darshanabaruah185@gmail.com
--Vineet Agarwal vineetagarwal540@gmail.com
+Darshana Baruah darshanabaruah185@gmail.com
+<br>
+Vineet Agarwal vineetagarwal540@gmail.com
 
