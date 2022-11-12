@@ -49,7 +49,7 @@ This folder contains various files:
 - [hindi_template](https://github.com/indicwiki-iiit/Bacteria/blob/main/hindi_template.txt): It contains the template for the structure of the article.
 - [xmlgen](https://github.com/indicwiki-iiit/Bacteria/blob/main/xmlgen.py): It contains the backbone structure for conversion to XML.
 - [generation](https://github.com/indicwiki-iiit/Bacteria/blob/main/generate.py): it contains the code for generating XML dump of articles using the template and the dataset
-- [xmldump50](https://github.com/indicwiki-iiit/Bacteria/blob/main/xmldump50.xml): the final XML dump file of all the 17245 bacteria.
+- [xmldump50](https://github.com/indicwiki-iiit/Bacteria/blob/main/xmldump50.xml): the XML dump file of intial 50 articles bacteria.
 
 
 
