@@ -52,7 +52,7 @@ This folder contains various files:
 - [xmldump50](https://github.com/indicwiki-iiit/Bacteria/blob/main/xmldump50.xml): the XML dump file of intial 50 articles bacteria.
 
 
-##Contributors
+## Contributors
 Darshana Baruah darshanabaruah185@gmail.com
 <br>
 Vineet Agarwal vineetagarwal540@gmail.com
