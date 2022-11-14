@@ -8,7 +8,6 @@ The following ordered list will give an idea as to what stage the project curren
 
 - [x] Scrape Data from Web sources
 - [x] Clean and Format the data
-- [x] Scrape infobox information from Wikipedia
 - [x] Create a sample article
 - [x] Review of the sample article
 - [x] Work on feedback from review of sample article
